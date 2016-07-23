@@ -1,5 +1,5 @@
 {
-    "name": "aortega/dot-notation-php",
+    "name": "adrian-ortega/dot-notation-php",
     "type": "library",
     "description": "Access array data with dot notation",
     "keywords": ["array", "arrays", "notation", "dot-notation"],
