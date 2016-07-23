@@ -1,0 +1,20 @@
+{
+    "name": "aortega/dot-notation-php",
+    "type": "library",
+    "description": "Access array data with dot notation",
+    "keywords": ["array", "arrays", "notation", "dot-notation"],
+    "homepage": "https://github.com/adrian-ortega/dot-notation-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Ortega",
+            "email": "hello@aortegadesign.com",
+            "homepage": "http://aortegadesign.com"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "AOD\\" : "src"
+        }
+    }
+}
