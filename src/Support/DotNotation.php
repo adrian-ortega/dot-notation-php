@@ -1,6 +1,6 @@
 <?php
 
-namespace AOD;
+namespace AOD\Support;
 
 class DotNotation
 {
